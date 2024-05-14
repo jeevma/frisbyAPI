@@ -1,0 +1,17 @@
+{
+  "name": "frisbyapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "frisby": "^0.8.5",
+    "jasmine": "^5.1.0",
+    "jest": "^29.7.0"
+  }
+}
